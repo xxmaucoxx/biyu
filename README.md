@@ -1,2 +1,0 @@
-# biyu
-pruena de exportacion
